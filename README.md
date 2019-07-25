@@ -1,6 +1,5 @@
 # Processing-Music-Vizualizer
-This is a simple project featuring processing.
-This is a Music Vizualizer created in Processing, a software sketchbook that uses Java as a foundation.
+This is a Music Vizualizer created in Processing, a software sketchbook that uses Java as a foundation. To run this program, Processing is required; you can download the program at: https://processing.org/download/
 
 What this code does is that it projects a series of shapes moving in a 3D space. The shapes change in size and opacity based off of the volume of the soundtrack, and the coordinates of the mouse on the canvas dictate the color values.
 
